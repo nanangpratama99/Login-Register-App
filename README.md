@@ -16,7 +16,7 @@ First : Clone this Repo
 And Run / Debug
 
 ### Important
-> _Some asset not includ_ 
+> _Some asset not included_ 
 ####
 > _add folder 'assets' and insert your 'image-asset'_ 
     
