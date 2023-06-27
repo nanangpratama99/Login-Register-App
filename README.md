@@ -14,6 +14,10 @@ First : Clone this Repo
 ```
 
 And Run / Debug
+
+### Important
+###### Some asset not include #####
+###### add folder 'asset' and insert your 'image-asset'
     
 ## Screenshots
 ##### 1. Login Screen, Register Screen & Login Using Phone Number Screen
