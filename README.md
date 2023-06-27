@@ -19,12 +19,12 @@ And Run / Debug
 ##### 1. Login Screen, Register Screen & Login Using Phone Number Screen
 ####
 
-![App Screenshot](https://github.com/nanangpratama99/Register-Login-App/assets/111034379/55260ee4-6208-4eea-9f05-fb6a03fabed6)
+![App Screenshot](https://github.com/nanangpratama99/Login-Register-App/assets/111034379/df2fa8ac-8a6e-4fcc-8821-85b30d6a2f90)
 
 ##### 2. Forgot Password Screen & Reset Password Screen
 ####
 
-![App Screenshot](https://github.com/nanangpratama99/Register-Login-App/assets/111034379/27d93eef-7698-4b46-a705-2d4a98e9811f)
+![App Screenshot](https://github.com/nanangpratama99/Login-Register-App/assets/111034379/9980b1f3-9c18-484c-b0eb-b7b7d7982a3c)
 
 
 ## 🚀 About Me
