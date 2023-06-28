@@ -65,8 +65,6 @@ Start the server
 
 
 ## 🚀 About Me
-👩‍💻 I'm currently doing an internship at one of the IT companies in Sahid Sudirman Center...
-
 ⚡️ Fun fact : Trust me, I'm not a Wibu 😄...
 
 
