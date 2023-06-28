@@ -53,15 +53,16 @@ Start the server
 > _add folder 'assets' and insert your 'image-asset'_ 
     
 ## Screenshots
-##### 1. Login Screen, Register Screen & Login Using Phone Number Screen
+##### 1. Welcome Screen, Login Screen & Register Screen
 ####
 
-![App Screenshot](https://github.com/nanangpratama99/Login-Register-App/assets/111034379/df2fa8ac-8a6e-4fcc-8821-85b30d6a2f90)
+<img width="750" alt="mock-1" src="https://github.com/nanangpratama99/Login-Register-App/assets/111034379/519e40f0-eb85-4fb8-bb64-df503433a7d1">
 
-##### 2. Forgot Password Screen & Reset Password Screen
+
+##### 2. Home Page Screen & Course Page Screen
 ####
 
-![App Screenshot](https://github.com/nanangpratama99/Login-Register-App/assets/111034379/9980b1f3-9c18-484c-b0eb-b7b7d7982a3c)
+<img width="750" alt="mock-2" src="https://github.com/nanangpratama99/Login-Register-App/assets/111034379/3712579e-5ad3-46d5-8f5e-224c267890f9">
 
 
 ## 🚀 About Me
