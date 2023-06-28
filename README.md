@@ -3,17 +3,49 @@
 
 A simple login, register & forgot ui using flutter 
 
+## Tech Stack
 
-## Set Up
+#### Java version
+_java version "1.8.0_281"_
 
-First : Clone this Repo
+_Java(TM) SE Runtime Environment (build 1.8.0_281-b09)_
 
+_Java HotSpot(TM) 64-Bit Server VM (build 25.281-b09, mixed mode)_
+
+#### Flutter version
+_Flutter 3.7.9 • channel stable • https://github.com/flutter/flutter.git_
+
+_Tools • Dart 2.19.6 • DevTools 2.20.1_
+
+#### SDK version
+_Android SDK version 33.0.2_
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/nanangpratama99/Login-Register-App.git
+```
+
+Go to the project directory
+
+```bash
+  cd Login Register App
+```
+
+Install dependencies
 
 ```bash
   flutter pub get
 ```
 
-And Run / Debug
+Start the server
+
+```bash
+  flutter run lib/main.dart
+```
 
 ### Important
 > _Some asset not included_ 
