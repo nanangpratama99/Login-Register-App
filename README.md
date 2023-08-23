@@ -64,10 +64,6 @@ Start the server
 
 <img width="750" alt="ss-2" src="https://github.com/nanangpratama99/Login-Register-App/assets/111034379/84d9be3b-37b3-4eb6-a11a-9733c1b17170">
 
-## 🚀 About Me
-⚡️ Fun fact : Trust me, I'm not a Wibu 😄...
-
-
 ## Authors
 
 - [@nanangpratama](https://github.com/nanangpratama99)
